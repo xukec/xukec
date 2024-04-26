@@ -63,7 +63,7 @@ Like listening to music, reading, writing and sleeping.
 ### Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=xukec&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
 
-## Github Activity Graph
+### Github Activity Graph
 [![xukec's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xukec&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Visitor Count
