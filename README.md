@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm xuke
 
 <!--
 **xukec/xukec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
+### My Introduction  
+
+- I am a ♌.
+- I am from 🇨🇳.
+- I am a 👨‍🎓.
+
+### Favorite
+
+  Like listening to music, reading, writing and sleeping.
+
+<h3>About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+
+- Operating system, embedded, Rust enthusiasts
+- Embedded driver development
+- Currently engaged in linux system development, system programming and other work.
+
+<h3>Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,rust" />
+  </a>
+</p>
+
+### Contact Me
+  
+  xuke0931@qq.com
+  
+### Github Stats  
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xukec&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xukec&hide_border=true&theme=tokyonight&layout=compact" align="left" style="width: 100%" /></td></tr></table>
+
+### Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=xukec&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
+
+## Github Activity Graph
+[![xukec's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xukec&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/xukec/count.svg)
