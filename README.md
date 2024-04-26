@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Like listening to music, reading, writing and sleeping.
 
-<h3>About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+<h3>About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h3>
 
 - Operating system, embedded, Rust enthusiasts
 - Embedded driver development
