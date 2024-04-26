@@ -67,4 +67,7 @@ Like listening to music, reading, writing and sleeping.
 [![xukec's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xukec&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Visitor Count
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/xukec/count.svg)
+-->
+![xukec](https://count.getloli.com/get/@:xukec?theme=asoul)
