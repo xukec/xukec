@@ -18,13 +18,14 @@ Here are some ideas to get you started:
   
 ### My Introduction  
 
-- I am a ♌.
-- I am from 🇨🇳.
-- I am a 👨‍🎓.
+- I'm a fan of the underlying technology of computers.
+- I'm from 🇨🇳.
+- My major is electronic information engineering.
+- I'm a quiet and steady person.
 
 ### Favorite
 
-  Like listening to music, reading, writing and sleeping.
+Like listening to music, reading, writing and sleeping.
 
 <h3>About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 
@@ -34,14 +35,18 @@ Here are some ideas to get you started:
 
 <h3>Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p>
- <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,rust" />
   </a>
 </p>
 
 ### Contact Me
   
-  xuke0931@qq.com
+Email: xuke0931@qq.com
+<p>
+  <a target="_blank" href="https://blog.csdn.net/m0_65835264">🐱 Blog</a> •
+  <a target="_blank" href="https://gitee.com/xukec">gitee</a>
+</p>
   
 ### Github Stats  
 
