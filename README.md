@@ -41,12 +41,12 @@ Like listening to music, reading, writing and sleeping.
 </p>
 
 ### Contact Me
-  
-Email: xuke0931@qq.com
+
 <p>
   <a target="_blank" href="https://blog.csdn.net/m0_65835264">🐱 Blog</a> •
   <a target="_blank" href="https://gitee.com/xukec">gitee</a>
 </p>
+Email：xuke0931@qq.com
   
 ### Github Stats  
 
