@@ -1,4 +1,7 @@
 ## Hi there 👋, I'm xuke
+<!--
+<h2>About Me <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+-->
 
 <!--
 **xukec/xukec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Favorite
 -->
 
 <img align="right" src="https://github.com/xukec/xukec/blob/master/image/meigui.png" width="350">
@@ -24,7 +28,7 @@ Here are some ideas to get you started:
 - My major is electronic information engineering.
 - I'm a quiet and steady person.
 
-### Favorite
+<h3>Favorite <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h3>
 
 Like listening to music, reading, writing and sleeping.
 
