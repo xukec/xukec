@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Favorite
+<h3>Favorite <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h3>
 -->
 
 <img align="right" src="https://github.com/xukec/xukec/blob/master/image/meigui.png" width="350">
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - My major is electronic information engineering.
 - I'm a quiet and steady person.
 
-<h3>Favorite <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h3>
+### Favorite
 
 Like listening to music, reading, writing and sleeping.
 
